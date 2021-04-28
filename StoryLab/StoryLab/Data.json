@@ -1,41 +1,7 @@
 [
    {
       "sections":[
-         {
-            "name":"Apple Computer (1976-1985)",
-            "picturesImageName":[
-               "sjobs1-1",
-               "sjobs1-2",
-               "sjobs1-3",
-               "sjobs1-4"
-            ]
-         },
-         {
-            "name":"NeXT Computer (1985-1997)",
-            "picturesImageName":[
-               "sjobs2-1",
-               "sjobs2-2",
-               "sjobs2-3",
-               "sjobs2-4"
-            ]
-         },
-         {
-            "name":"Return to Apple (1997-2011)",
-            "picturesImageName":[
-               "sjobs4-1",
-               "sjobs4-2",
-               "sjobs4-3",
-               "sjobs4-4"
-            ]
-         },
-         {
-            "name":"Pixar & Disney",
-            "picturesImageName":[
-               "sjobs3-1",
-               "sjobs3-2",
-               "sjobs3-3"
-            ]
-         }
+         
       ],
       "imageName":"72",
       "name":"The Travel Day",
@@ -80,7 +46,7 @@
    },
   
    {
-      "imageName":"Mavi Kırlangıç Çocuk Dergisi (Kapak Tasarımları) 2019",
+      "imageName":"Mavi Kırlangıç Çocuk Dergisi (Kapak Tasarımları) 2019",
       "name":"Jenny's Summer",
       "description":"Asha was getting frustrated and tired of life, so she asked her father what to do. Her father told her to bring an egg, two tea leaves, and a potato. He then brought out three vessels, filled them with water and placed them on the stove.Once the water was boiling, he told Asha to place the items into each pot and keep an eye on them. After 10 minutes, he asked Asha to peel the egg, peel the potato, and strain the leaves. Asha was left confused.Her father explained, “Each item was placed into the same circumstance, boiling water. See how each responded differently?”He continued, “The egg was soft, but is now hard. The potato was hard, but is now soft. And the tea leaves, they changed the water itself.”The father then asked, “When adversity calls, we respond in the same manner as they have. Now, are you an egg, a potato, or tea leaves?”",
       "shortDescription":"Asha was getting frustrated and tired of life, so she asked her father what to do. Her father told her to bring an egg, two tea leaves, and a potato."
